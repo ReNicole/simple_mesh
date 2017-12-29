@@ -12,7 +12,9 @@ vertices, facet = readOBJ(OBJpath)
 # if write successfully, return true
 save_status = writeOBJ(SAVEpath, vertices, facet)
 ```
+2.winding
+3.ray
 
 ## How to use simple_mesh ?
-Currently just import the needed functions. Run test.py to see if everything is ok.
+Currently just import the needed functions.
 
